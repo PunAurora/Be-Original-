@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pun Aurora - Digital Communication & Strategy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .section h2 {
+            color: #4CAF50;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Pun Aurora</h1>
+    <p>Digital Communication & Strategy, Content Creator, Political Analyst</p>
+</header>
+
+<nav>
+    <a href="#news-original">News Original</a>
+    <a href="#behind-the-scenes">Behind the Scenes</a>
+    <a href="#proud-stories">Proud Stories</a>
+    <a href="#about-me">About Me</a>
+</nav>
+
+<div class="container">
+    <div id="news-original" class="section">
+        <h2>News Original</h2>
+        <p>Stay updated with the latest original news articles and insights. Here, you'll find unique perspectives on current events and in-depth analysis on various topics.</p>
+    </div>
+
+    <div id="behind-the-scenes" class="section">
+        <h2>Behind the Scenes</h2>
+        <p>Get an exclusive look behind the scenes of my work process. Discover the efforts and strategies that go into creating compelling content and effective communication plans.</p>
+    </div>
+
+    <div id="proud-stories" class="section">
+        <h2>Proud Stories</h2>
+        <p>Explore stories and projects that I'm particularly proud of. These are the highlights of my career and personal achievements that have made a significant impact.</p>
+    </div>
+
+    <div id="about-me" class="section">
+        <h2>About Me</h2>
+        <p>Hello! I'm Pun Aurora, a professional specializing in digital communication and strategy. With a passion for content creation and political analysis, I aim to bring unique and insightful perspectives to my audience. Welcome to my personal webpage, where you can learn more about my work and interests.</p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 Pun Aurora. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
